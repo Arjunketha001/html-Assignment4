@@ -1,0 +1,7 @@
+HTML entities are used to display reserved characters or to express characters that cannot easily be entered with the keyboard.
+Common HTML entities:
+    &amp; for &
+    &lt; for <
+    &gt; for >
+    &quot; for "
+    &apos; for '
